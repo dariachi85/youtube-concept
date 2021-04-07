@@ -53,6 +53,7 @@ body {
 
 .input-search {
   background-color: transparent;
+  width: 100%;
   border: none;
   padding: 12px 23px;
 }
